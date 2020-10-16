@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enis</h1>
-<h3 align="center">Data Scientist & DevOps,B.Sc & M.Sc in statistics, R & Python user, regular Kaggler, interested in machine/deep learning.</h3>
+<h3 align="center">Data Scientist & DevOps,B.Sc & M.Sc, PhD candidate in statistics, R & Python user, regular Kaggler, interested in machine/deep learning.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=silverstone1903" alt="silverstone1903" /> </p>
+
 
  - 📝 I write articles on (in Turkish) [silverstone1903.github.io](https://silverstone1903.github.io)
 
@@ -15,3 +15,7 @@
 <a href="https://linkedin.com/in/silverstone1903" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="silverstone1903" height="30" width="30" /></a>
 <a href="https://kaggle.com/silverstone1903" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="silverstone1903" height="30" width="30" /></a>
 </p>
+
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=silverstone1903" alt="silverstone1903" /> </p>
+</br>
