@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Enis</h1>
-<h3 align="center">Data Scientist & DevOps,B.Sc & M.Sc, PhD candidate in statistics, R & Python user, regular Kaggler, interested in machine/deep learning.</h3>
+<h1 align="center">Hi there 👋</h1>
+<h3 align="center">Data Scientist & DevOps, B.Sc & M.Sc, PhD candidate in statistics, R & Python user, regular Kaggler, interested in machine/deep learning and MLOps.</h3>
 
 
 
