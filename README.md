@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">Data Scientist & DevOps, B.Sc & M.Sc in statistics, PhD Candidate, R & Python user, Kaggler, AWS Community Builder, interested in machine/deep learning and MLOps.</h3>
+<h3 align="center">Data Scientist & DevOps, B.Sc & M.Sc in statistics, PhD Candidate, R & Python user, Kaggler, AWS Community Builder, interested in machine/deep learning, recommender systems and MLOps.</h3>
 
 <!--- <h3 align="center">Skills</h3> -->
 <h3 align="center"> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h3>
