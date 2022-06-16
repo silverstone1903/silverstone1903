@@ -2,7 +2,8 @@
 <h3 align="center">Data Scientist & DevOps, B.Sc & M.Sc in statistics, PhD Candidate, R & Python user, Kaggler, AWS Community Builder, interested in machine/deep learning, recommender systems and MLOps.</h3>
 
 <!--- <h3 align="center">Skills</h3> -->
-<h3 align="center"> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h3>
+<h3 align="center"> Skills 
+</h3>
 <p align="center"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>  <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 </p>
 
