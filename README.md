@@ -1,5 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">Data Scientist & DevOps, B.Sc & M.Sc in statistics, PhD Candidate, R & Python user, Kaggler, AWS Community Builder, interested in machine/deep learning, recommender systems and MLOps.</h3>
+<h3 align="center">Data Scientist & DevOps, B.Sc & M.Sc in statistics, Ph.D. Candidate, R & Python user, Kaggler, AWS Community Builder, interested in machine/deep learning, recommender systems and MLOps.</h3>
+
+<br>
 
 <!--- <h3 align="center">Skills</h3> -->
 <h3 align="center"> Skills 
@@ -9,6 +11,7 @@
 
 <p align="center"> 
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
+<a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a>
 </p>
   
 <p align="center"> 
@@ -32,8 +35,8 @@
 -->
 
 <p align="center">
-<a href="https://linkedin.com/in/silverstone1903" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="silverstone1903" height="30" width="30" /></a>
-<a href="https://kaggle.com/silverstone1903" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="silverstone1903" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/silverstone1903" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="buse-yıldırım" height="30" width="40" /></a>
+<a href="https://kaggle.com/silverstone1903" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="buseyldrm" height="30" width="40" /></a>
 </p> 
 
 
