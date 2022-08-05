@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">Data Scientist & DevOps, B.Sc & M.Sc in statistics, Ph.D. Candidate, R & Python user, Kaggler, AWS Community Builder, interested in machine/deep learning, recommender systems and MLOps.</h3>
+<h3 align="center">Data Scientist & DevOps, B.Sc & M.Sc in statistics, Ph.D. Candidate, R & Python user, Kaggler, AWS Community Builder, AWS Certified Solution Architect Associate, interested in machine/deep learning, recommender systems and MLOps.</h3>
 
 <br>
 
